@@ -1,6 +1,6 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.9",
+    "versionCode":  11,
+    "versionName":  "2.0",
     "apkUrl":  "https://raw.githubusercontent.com/muichilolove00810-boop/nyang-catchstar/main/nyang-catchstar.apk",
-    "notes":  "관리자: 모든 계정 보기 · 검색 · 정렬, 목록에서 바로 관리자 등록"
+    "notes":  "미니게임 3종(층 오르기·짝 맞추기·쥐 잡기)! 권한 상점(아이템 공방·고양이 무제한·퀘스트 선택·강화 한도 해제), 만든 고양이 수정"
 }
