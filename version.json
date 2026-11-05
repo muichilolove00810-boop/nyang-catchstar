@@ -1,6 +1,6 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.3",
+    "versionCode":  5,
+    "versionName":  "1.4",
     "apkUrl":  "https://raw.githubusercontent.com/muichilolove00810-boop/nyang-catchstar/main/nyang-catchstar.apk",
-    "notes":  "화면 가득 채우기 · 몽글몽글 픽셀 배경 (하늘·언덕·구름·꽃잎)!"
+    "notes":  "업데이트 확인이 더 잘 되도록 고쳤어요 (타이틀에 [업데이트 확인] 버튼 추가)"
 }
